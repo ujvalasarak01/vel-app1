@@ -28,7 +28,7 @@ pipeline {
 			
 				steps {
 				
-				    echo "Hello World three"
+				    echo "this is master branch"
 				
 				}
 			
